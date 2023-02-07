@@ -1,1 +1,6 @@
-1
+chatGPTAccountPool:
+  - email: philip@edifier.ca
+    password: Caed@2022
+    isGoogleLogin: false
+chatPrivateTiggerKeyword: ""
+openAIProxy: ""
